@@ -3,7 +3,9 @@ adf
 
 程序包插件--pljson-2.2.0.zip
 
-
+apache-cxf-3.2.4.zip
+incubator-dubbo-master.zip
+zookeeper-3.4.12.tar.gz
 
 
 
